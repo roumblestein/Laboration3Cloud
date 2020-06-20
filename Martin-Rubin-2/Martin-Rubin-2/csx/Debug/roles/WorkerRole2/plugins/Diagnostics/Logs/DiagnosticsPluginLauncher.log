@@ -1,0 +1,10 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Emulator config file set to C:\Users\macka\source\repos\Martin-Rubin-2\Martin-Rubin-2\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] DiagnosticsStoreRootPath set to: C:\Users\macka\AppData\Local\dftmp\Resources\cd3d555d-7264-43a7-b7e5-f690ac59631e
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Loading config file: C:\Users\macka\source\repos\Martin-Rubin-2\Martin-Rubin-2\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Config file to read: C:\Users\macka\source\repos\Martin-Rubin-2\Martin-Rubin-2\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Emulator config file set to C:\Users\macka\source\repos\Martin-Rubin-2\Martin-Rubin-2\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Stopping the running plugin, if any

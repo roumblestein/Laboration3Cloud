@@ -1,0 +1,12 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Emulator config file set to C:\Users\macka\source\repos\Martin-Rubin-2\Martin-Rubin-2\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] DiagnosticsStoreRootPath set to: C:\Users\macka\AppData\Local\dftmp\Resources\614b8862-e44f-417e-9cbc-398908d39c56
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Loading config file: C:\Users\macka\source\repos\Martin-Rubin-2\Martin-Rubin-2\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Config file to read: C:\Users\macka\source\repos\Martin-Rubin-2\Martin-Rubin-2\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Emulator config file set to C:\Users\macka\source\repos\Martin-Rubin-2\Martin-Rubin-2\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:31:46] Stopping the running plugin, if any

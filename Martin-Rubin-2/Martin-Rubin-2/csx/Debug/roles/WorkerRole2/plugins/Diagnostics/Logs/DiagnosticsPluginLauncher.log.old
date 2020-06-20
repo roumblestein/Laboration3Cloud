@@ -1,0 +1,19 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] Emulator config file set to C:\Users\macka\source\repos\Martin-Rubin-2\Martin-Rubin-2\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] DiagnosticsStoreRootPath set to: C:\Users\macka\AppData\Local\dftmp\Resources\cd3d555d-7264-43a7-b7e5-f690ac59631e
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] Loading config file: C:\Users\macka\source\repos\Martin-Rubin-2\Martin-Rubin-2\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] Config file to read: C:\Users\macka\source\repos\Martin-Rubin-2\Martin-Rubin-2\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] Emulator config file set to C:\Users\macka\source\repos\Martin-Rubin-2\Martin-Rubin-2\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:09:44] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:10:54] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-06-20 16:10:54] DiagnosticPlugin exited with code 0
