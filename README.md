@@ -1,4 +1,7 @@
 # Laboration3Cloud
 
 
-rhwerehw.webp
+<img
+src=“images/rhwerehw.JPG”
+raw=true
+/>
